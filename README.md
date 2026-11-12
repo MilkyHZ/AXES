@@ -19,3 +19,4 @@ This repository contains the source code and implementation for our course proje
 
 ## Gameplay Demonstration Links
 * [Activity 6 - Week 8 Video Demo](https://drive.google.com/file/d/1nsyPap3LnWhwxv4cWXDHPyIQfqAKVRTB/view?usp=drive_link)
+* [Activity 8 - Week 10 Video Demo](https://drive.google.com/file/d/1_gGcMJZie12eHNzp_adyM6J5c8o7zy5g/view?usp=drive_link)
